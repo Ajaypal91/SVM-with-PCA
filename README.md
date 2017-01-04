@@ -8,6 +8,6 @@ The example runs SVM and then runs PCA untill the accuracy is not lesser than th
 A plot of loading factor which shows the variance of each dimensions is plotted and an elbow plot is drawn to show the number
 of features that are accounted in each case.
 
-
+![Alt text](/figure_1.png?raw=true "elbow plot")
 
 
